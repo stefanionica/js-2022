@@ -1,7 +1,8 @@
-var date = new Date()
+//var date = new Date()
 
-var year = date.getFullYear() 
+//var year = date.getFullYear() 
 
+var year=prompt("Enter a number");
 var generationAlpha = year > 2016
 var generationZ = year > 2002
 var generationY = year > 1987
