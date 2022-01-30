@@ -23,5 +23,6 @@ for(i = 1; i <= max; i++) {
     for (j = 1; j <= max; j++) {
     message = `${j} x ${i} = ${j*i} <br>`
         document.write(message)
+        //console.log(message)
     }
 }
