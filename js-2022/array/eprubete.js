@@ -4,7 +4,7 @@ document.write('Al doilea scor este:' + scores[1] + '<br>')
 document.write('Ultimul scor este:' + scores[9] + '<br>')
 
 var max = 0
-for (let i = 0; i < scores.lenght; i++) {
+for (let i = 0; i < scores.length; i++) {
     if (scores[i] > max) {
         max = scores[i]
     }
