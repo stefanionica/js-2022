@@ -8,7 +8,6 @@ for (let i = 0; i < scores.length; i++) {
     if (scores[i] > max) {
         max = scores[i]
     }
-
 }
 document.write('Scorul maxim este:' + max + '<br>')
 
