@@ -1,3 +1,5 @@
+
+
 var date = new Date()
 var hour = date.getHours()
 
@@ -12,3 +14,5 @@ document.write(timeOfDay)
 // } else {
 //     document.write('P.M.')
 // }
+
+//https://www.onlineexambuilder.com/java-script-2/exam-316648
