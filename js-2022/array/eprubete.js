@@ -42,7 +42,7 @@ var words = ['hello', 'Visual Studio', 'Java Script', 'if', 'object']
 var upperWords = []
 
 for (let word of words) {
-    //word[0] este I litera, verificam ca se afla inre A - Z
+    //word[0] este I litera, verificam ca se afla intre A - Z
     // o alta varianta: word[0].toUpperCase() == word[0]
     if (word[0] >='A' && word[0] <= 'Z') {
         upperWords.push(word)
