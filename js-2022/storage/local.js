@@ -37,3 +37,8 @@ function reset() {
     // face un reload pentru pagina
     location.reload()
 }
+
+//https://refactoring.com/catalog/extractVariable.html
+//https://refactoring.com/catalog/
+//developper.modzila
+//https://drive.google.com/file/d/1uTjNGpw0JPEb10pTanFuKig5e9GWBgUF/view?usp=sharing
